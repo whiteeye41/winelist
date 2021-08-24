@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  winelist
+
+  Created by cosima on 2020/7/2.
+  Copyright © 2020 cosima. All rights reserved.
+*/
+"搜尋" = "search";
+"酒吧清單" = "Bar list";
+"月曆" = "Monthly calendar";
+"調酒清單" = "Bartending list";
+"設定" = "Settings";
+"完成" = "carry out";
+"取消" = "cancel";
+"新增酒吧資料" = "Add bar information";
+"導航" = "navigation";
+"選擇功能" = "Select function";
+"輸入搜尋地方" = "Enter search place";
+"稍候再評" = "Rating later";
+"我要評分" = "I want to rate";
+"我希望收到你的來信,請通過E-mail寫信給我" = "I hope to hear from you, please write to me via E-mail";
+"前往" = "go";
+"刪除" = "delete";
+"確定要刪除?" = "Are you sure you want to delete?";
+"分享" = "Share";
+"選擇你的照片來源" = "Choose your photo source";
+"相機" = "camera";
+"相簿" = "Album";
+"請檢查其他欄位未填寫" = "Please check other fields are not filled";
+"需要增加的材料" = "Need to add materials";
+"檸檬汁15mL" = "Lemon juice 15mL";
+"加入" ="Join";
+"調酒名稱未填寫" = "Bartender name is missing" ;
+"評分" = "score";
+"問題回報" = "Problem report";
+"登出" = "Sign out";
+"Facebook登入" = "Facebook Login" ;
+"琴酒" = "Gin";
+"伏特加" = "Vodka";
+"龍舌蘭" = "Tequila";
+"蘭姆酒" = "Rum";
+"威士忌" = "Whiskey";
+"白蘭地" = "Brandy";
+"香艾酒" = "Vermouth";
+"苦艾酒" = "Absinthe";
+"君度橙酒" = "Cointreau";
+"香甜酒" = "Mulled wine";
+"杏仁酒" = "Amaretto Disaronno";
+"香檳" = "Champagne";
+"氣泡酒" = "Sparkling wine";
+"葡萄酒" = "wine";
+"白葡萄酒" = "White Wine";
+"啤酒" = "Beer";
+"你已登入" = "You already login";

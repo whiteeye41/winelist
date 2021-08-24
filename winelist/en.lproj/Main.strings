@@ -1,0 +1,126 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0U7-C7-XBk"; */
+"0U7-C7-XBk.text" = "Label";
+
+/* Class = "UILabel"; text = "winname"; ObjectID = "62h-1A-pUY"; */
+"62h-1A-pUY.text" = "winname";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7zv-pO-cAl"; */
+"7zv-pO-cAl.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "8M5-x4-QUw"; */
+"8M5-x4-QUw.normalTitle" = ">";
+
+/* Class = "UIButton"; normalTitle = "搜尋"; ObjectID = "8Z1-1J-KWb"; */
+"8Z1-1J-KWb.normalTitle" = "search";
+
+/* Class = "UILabel"; text = "We"; ObjectID = "9k4-WY-h37"; */
+"9k4-WY-h37.text" = "We";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Avf-lb-QgV"; */
+"Avf-lb-QgV.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Cls-dF-XwP"; */
+"Cls-dF-XwP.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "新增酒單"; ObjectID = "DBk-Zp-ron"; */
+"DBk-Zp-ron.title" = "Add wine list";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "G76-lZ-c1o"; */
+"G76-lZ-c1o.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GrV-vU-ENb"; */
+"GrV-vU-ENb.text" = "Label";
+
+/* Class = "UILabel"; text = "Fr"; ObjectID = "Il3-FK-1v9"; */
+"Il3-FK-1v9.text" = "Fr";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "JBg-QX-RCf"; */
+"JBg-QX-RCf.text" = "Title";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "L09-Q5-deC"; */
+"L09-Q5-deC.text" = "Detail";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MXT-WO-hFl"; */
+"MXT-WO-hFl.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "O56-UG-OIg"; */
+"O56-UG-OIg.text" = "Label";
+
+/* Class = "UILabel"; text = "價格"; ObjectID = "R4d-kg-0B9"; */
+"R4d-kg-0B9.text" = "price";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "RN0-X8-vbE"; */
+"RN0-X8-vbE.normalTitle" = "<";
+
+/* Class = "UILabel"; text = "酒品名稱"; ObjectID = "Sdc-gf-xmZ"; */
+"Sdc-gf-xmZ.text" = "Wine name";
+
+/* Class = "UILabel"; text = "地址"; ObjectID = "TL7-xo-hpX"; */
+"TL7-xo-hpX.text" = "address";
+
+/* Class = "UILabel"; text = "wineType"; ObjectID = "VX0-lL-dBT"; */
+"VX0-lL-dBT.text" = "wineType";
+
+/* Class = "UILabel"; text = "Su"; ObjectID = "ZIk-HP-jUq"; */
+"ZIk-HP-jUq.text" = "Su";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ZZr-ls-p0w"; */
+"ZZr-ls-p0w.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "完成"; ObjectID = "c7m-W8-bu7"; */
+"c7m-W8-bu7.normalTitle" = "carry out";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cqf-kG-DFn"; */
+"cqf-kG-DFn.text" = "Label";
+
+/* Class = "UILabel"; text = "名稱"; ObjectID = "csZ-k2-cHQ"; */
+"csZ-k2-cHQ.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "加入"; ObjectID = "eNa-1E-uvA"; */
+"eNa-1E-uvA.normalTitle" = "Join";
+
+/* Class = "UIButton"; normalTitle = "利口酒"; ObjectID = "eyr-Tc-Ygj"; */
+"eyr-Tc-Ygj.normalTitle" = "liqueur";
+
+/* Class = "UILabel"; text = "Mo"; ObjectID = "fMJ-Uu-IJM"; */
+"fMJ-Uu-IJM.text" = "Mo";
+
+/* Class = "UILabel"; text = "日期"; ObjectID = "gfs-YE-uMv"; */
+"gfs-YE-uMv.text" = "date";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ggb-6d-wpW"; */
+"ggb-6d-wpW.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "其他"; ObjectID = "h1t-uC-8lF"; */
+"h1t-uC-8lF.normalTitle" = "other";
+
+/* Class = "UINavigationItem"; title = "月曆"; ObjectID = "idY-DR-ARU"; */
+"idY-DR-ARU.title" = "Monthly calendar";
+
+/* Class = "UILabel"; text = "Th"; ObjectID = "nx9-3B-eeo"; */
+"nx9-3B-eeo.text" = "Th";
+
+/* Class = "UIButton"; normalTitle = "基酒"; ObjectID = "qrT-St-Jwh"; */
+"qrT-St-Jwh.normalTitle" = "Base wine";
+
+/* Class = "UILabel"; text = "店家"; ObjectID = "r1l-vx-jj9"; */
+"r1l-vx-jj9.text" = "Store";
+
+/* Class = "UIButton"; normalTitle = "自訂其他材料"; ObjectID = "raI-Je-S95"; */
+"raI-Je-S95.normalTitle" = "Other materials";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tLX-M7-WAu"; */
+"tLX-M7-WAu.text" = "Label";
+
+/* Class = "UILabel"; text = "Tu"; ObjectID = "vap-Kr-Yf7"; */
+"vap-Kr-Yf7.text" = "Tu";
+
+/* Class = "UILabel"; text = "may 2020"; ObjectID = "vde-zs-WUO"; */
+"vde-zs-WUO.text" = "may 2020";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "w8m-0e-dms"; */
+"w8m-0e-dms.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Sa"; ObjectID = "yg2-Ji-MZT"; */
+"yg2-Ji-MZT.text" = "Sa";

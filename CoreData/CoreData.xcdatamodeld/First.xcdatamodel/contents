@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="19E287" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Bar" representedClassName=".Bar" syncable="YES">
+        <attribute name="baraddress" optional="YES" attributeType="String"/>
+        <attribute name="barID" optional="YES" attributeType="String"/>
+        <attribute name="barName" optional="YES" attributeType="String"/>
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="imageName" optional="YES" attributeType="String"/>
+        <attribute name="pick" optional="YES" attributeType="Integer 64" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="win" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="WineList" representedClassName=".BartendingData" syncable="YES">
+        <attribute name="barTendingImage" optional="YES" attributeType="String"/>
+        <attribute name="barTendingWinName" optional="YES" attributeType="String"/>
+        <attribute name="barTendingWinType" optional="YES" attributeType="String"/>
+        <attribute name="baseWineArray" optional="YES" attributeType="Transformable"/>
+        <attribute name="dataWinList" optional="YES" attributeType="String"/>
+        <attribute name="princeImages" optional="YES" attributeType="Transformable"/>
+        <attribute name="winIDD" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Bar" positionX="160" positionY="192" width="128" height="148"/>
+        <element name="WineList" positionX="-63" positionY="27" width="128" height="148"/>
+    </elements>
+</model>
